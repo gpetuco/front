@@ -6,7 +6,6 @@ function HomePage4() {
   const goToPage = (page) => {
     window.location.href = page;
   };
-
   const generateReport = () => {
     alert("Relatório gerado!");
   };

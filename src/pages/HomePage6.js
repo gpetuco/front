@@ -28,7 +28,6 @@ function HomePage6() {
   const handleClosePopup = () => {
     setPopupVisible(false);
   };
-
   return (
 
     <div className="body">
@@ -73,5 +72,4 @@ function HomePage6() {
     </div>
   );
 }
-
 export default HomePage6;

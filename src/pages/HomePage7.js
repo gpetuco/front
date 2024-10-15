@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import './views/cadastroAdmin.css';
-
 function HomePage7() {
   const [popupVisible, setPopupVisible] = useState(false);
   const [popupMessage, setPopupMessage] = useState('');
@@ -81,5 +80,4 @@ function HomePage7() {
     </div>
   );
 }
-
 export default HomePage7;

@@ -10,7 +10,6 @@ function HomePage3() {
   const generateReport = () => {
     alert("Relatório gerado!");
   };
-
   return (
     <div>
       <div className="logo-container">
@@ -33,5 +32,4 @@ function HomePage3() {
     </div>
   );
 }
-
 export default HomePage3;

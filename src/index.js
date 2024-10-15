@@ -18,7 +18,6 @@ import { DEFAULT_BREAKPOINTS } from 'react-bootstrap/esm/ThemeProvider';
 ReactDOM.createRoot(document.getElementById("root")).render(<App/>);
 
 function App() {
-    
     const menus = ["HomePage2", "HomePage3", "HomePage4", "HomePage5"];
 
     const userType = 'adminCd';

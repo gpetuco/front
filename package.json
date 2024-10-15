@@ -45,5 +45,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Para instalar as dependências:\r ```bash\r npm install\r ```",
+  "main": "webpack.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

@@ -10,7 +10,6 @@ function HomePage5() {
   const generateReport = () => {
     alert("Relatório gerado!");
   };
-
   return (
     <div>
       <div className="logo-container">
@@ -32,5 +31,4 @@ function HomePage5() {
     </div>
   );
 }
-
 export default HomePage5;

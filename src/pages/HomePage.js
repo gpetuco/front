@@ -19,7 +19,6 @@ const orders = [
     { id: 115, status: 'Em separação' },
     { id: 116, status: 'Pronto para entrega' }
 ];
-
 function HomePage() {
     const [currentPage, setCurrentPage] = useState(1);
 
